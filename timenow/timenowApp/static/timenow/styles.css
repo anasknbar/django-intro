@@ -1,0 +1,23 @@
+body{
+  background-color: rgb(20, 10, 10);
+}
+h1 {
+  font-family: sans-serif;
+  font-size: 70px;
+  text-align: center;
+  color: white;
+}
+
+p,ul,li{
+  font-family: sans-serif;
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  list-style-type: none;
+}
+
+.time{
+  color: rgb(15, 248, 140);
+  font-size: 80px;
+
+}
